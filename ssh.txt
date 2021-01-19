@@ -1,0 +1,8 @@
+First ssh enable krenge waha key generate krke - private key download karenge.
+
+IP lekr Putty me put karenge
+SSH > auth > me private key browse krke private key select krenge or dobara akr save krlenge.
+
+ls -l - list krwane k lye directory
+cd www - change directory - mtlb directory ke under jane k lye
+wget -P ~/www/ https://snappyshot-wpengine-download.s3.amazonaws.com/zip-archives/site-archive-quirkycruise-live-1610958092-tg3bTvITUUYzzHDbPa3tsMg48Kw73BlGo4hs.zip
